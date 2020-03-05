@@ -1,0 +1,13 @@
+C:\Users\Antho\Desktop\Project\whoshere\bin\Debug\netcoreapp3.1\whoshere.exe
+C:\Users\Antho\Desktop\Project\whoshere\bin\Debug\netcoreapp3.1\whoshere.deps.json
+C:\Users\Antho\Desktop\Project\whoshere\bin\Debug\netcoreapp3.1\whoshere.runtimeconfig.json
+C:\Users\Antho\Desktop\Project\whoshere\bin\Debug\netcoreapp3.1\whoshere.runtimeconfig.dev.json
+C:\Users\Antho\Desktop\Project\whoshere\bin\Debug\netcoreapp3.1\whoshere.dll
+C:\Users\Antho\Desktop\Project\whoshere\bin\Debug\netcoreapp3.1\whoshere.pdb
+C:\Users\Antho\Desktop\Project\whoshere\obj\Debug\netcoreapp3.1\whoshere.csprojAssemblyReference.cache
+C:\Users\Antho\Desktop\Project\whoshere\obj\Debug\netcoreapp3.1\whoshere.AssemblyInfoInputs.cache
+C:\Users\Antho\Desktop\Project\whoshere\obj\Debug\netcoreapp3.1\whoshere.AssemblyInfo.cs
+C:\Users\Antho\Desktop\Project\whoshere\obj\Debug\netcoreapp3.1\whoshere.dll
+C:\Users\Antho\Desktop\Project\whoshere\obj\Debug\netcoreapp3.1\whoshere.pdb
+C:\Users\Antho\Desktop\Project\whoshere\bin\Debug\netcoreapp3.1\Figgle.dll
+C:\Users\Antho\Desktop\Project\whoshere\obj\Debug\netcoreapp3.1\whoshere.csproj.CopyComplete
