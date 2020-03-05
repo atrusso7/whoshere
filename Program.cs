@@ -24,7 +24,7 @@ namespace whoshere
         static void Main(string[] args)
         {
             Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine(FiggleFonts.SubZero.Render("who here"));
+            Console.WriteLine(FiggleFonts.SubZero.Render("whos here"));
             Console.ResetColor();
             int c = 1;
             Console.WriteLine("Select IP to scan from: ");
