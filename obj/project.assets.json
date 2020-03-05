@@ -4502,11 +4502,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Antho\\Desktop\\Project\\whoshere\\whoshere.csproj",
+      "projectUniqueName": "C:\\Users\\Antho\\Desktop\\Project\\whoshere\\whoshere\\whoshere.csproj",
       "projectName": "whoshere",
-      "projectPath": "C:\\Users\\Antho\\Desktop\\Project\\whoshere\\whoshere.csproj",
+      "projectPath": "C:\\Users\\Antho\\Desktop\\Project\\whoshere\\whoshere\\whoshere.csproj",
       "packagesPath": "C:\\Users\\Antho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Antho\\Desktop\\Project\\whoshere\\obj\\",
+      "outputPath": "C:\\Users\\Antho\\Desktop\\Project\\whoshere\\whoshere\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Antho\\AppData\\Roaming\\NuGet\\NuGet.Config",
